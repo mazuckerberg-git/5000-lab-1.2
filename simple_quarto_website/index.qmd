@@ -1,0 +1,108 @@
+---
+title: "Agustina Zuckerberg"
+bibliography: reference.bib
+---
+# About me
+
+I am a master's student in the Data Science and Analytics program at the Georgetown University Graduate School of Arts and Sciences. 
+
+In terms of my previous academic experience, as a recent graduate with a Bachelor's degree in Data Analytics, I have a strong foundation with data-driven projects involving interdisciplinary datasets, data cleaning and analysis, and final presentations. As an experienced data analyst, my strengths lie in data visualization and storytelling, allowing me to effectively communicate complex findings to both technical and non-technical stakeholders. 
+
+Education is one of my true passions. In my role as a Teaching Assistant, I had the privilege of supporting Industrial Engineering students and Data Analytics students during their final semester. My main responsibilities included delivering course content in class, tutoring the final projects, and collaboratively evaluating their final presentations and assignments. I like hanging out with friends, working out and music festivals.
+
+Additional passions include traveling, hanging out with friends, going to music festivals and enjoying life.
+
+> "Be the change you wish to see in the world" - Mahatma Gandhi [^1]
+
+:::: {.columns}
+
+::: {.column width="35%"}
+#### [My holidays in Singapore:]{style="text-decoration: underline;"}
+
+![The Marina Bay Sands Hotel - Exterior](./images/singapore_1.png){fig-align="left" width=50%}
+
+![The Marina Bay Sands Hotel - Rooftop](./images/singapore_2.png){fig-align="left" width=50%}
+
+:::
+
+::: {.column width="60%"}
+#### [My favourite song:]{style="text-decoration: underline;"}
+
+{{< video https://www.youtube.com/watch?v=x3idGV-7kSQ >}}
+
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+## Experience
+**Siemens Argentina** | 2023 - 2025
+
+**Instituto Tecnologico de Buenos Aires** | 2018 - 2022
+
+
+| Skills | Proficiency  |
+|:-------|:-------------|
+| R      | Advanced     |
+| Python | Advanced     |
+| SQL    | Intermediate |
+
+:::
+
+::: {.column width="50%"}
+## Education
+**Georgetown University** | 2023 - 2025
+
+**Instituto Tecnologico de Buenos Aires** | 2018 - 2022
+:::
+
+::::
+
+## Contact
+- **Mail:** maz53@georgetown.edu
+
+- **Phone number:** (202) 802 5686
+
+# Assignment
+
+## Math Examples:
+This is my inline-math LaTex equation: $x=\frac{-b \pm\sqrt{b^2 - 4ac}}{2a}$
+
+This is a special method of integration (integration by parts): 
+$$\int u d v=u v-\int v d u$$
+
+## Diagram
+
+```{mermaid}
+%%| code-fold: false
+flowchart LR
+A[Mental Mood Music Algorithm]
+    A --> AA{Chill}
+        AA --> AAA[Study]
+        AA --> AAB[Relax]
+
+    A --> AB{Electronic}
+        AB --> ABA[Study]
+        AB --> ABB[Workout]
+
+    A --> AC{Reggaeton}
+        AC --> ACA[Party]
+        AC --> ACB[Workout]
+```
+
+## Citation
+ipsum lorem [see @dalgaard2008introductory, pp. 27-30]
+
+ipsum lorem [see @murphy2012machine, pp. 70-90]
+
+## References
+
+::: {#refs}
+:::
+
+
+
+[^1]:https://en.wikipedia.org/wiki/Mahatma_Gandhi
+
